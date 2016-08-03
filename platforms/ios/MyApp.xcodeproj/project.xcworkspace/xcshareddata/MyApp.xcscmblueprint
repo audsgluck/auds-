@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CA041C31F4423C88CE9299CBEB1366AD3267BDC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2EF3F8A94E4BD741C301FFC083B69C96C97BABA0" : 0,
+    "2CA041C31F4423C88CE9299CBEB1366AD3267BDC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4CCC2506-79B4-491F-AFD0-FF8C642A3ECD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2EF3F8A94E4BD741C301FFC083B69C96C97BABA0" : "",
+    "2CA041C31F4423C88CE9299CBEB1366AD3267BDC" : "MyApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/MyApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/audsgluck\/auds-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CA041C31F4423C88CE9299CBEB1366AD3267BDC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WFWstem\/MyApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EF3F8A94E4BD741C301FFC083B69C96C97BABA0"
+    }
+  ]
+}
